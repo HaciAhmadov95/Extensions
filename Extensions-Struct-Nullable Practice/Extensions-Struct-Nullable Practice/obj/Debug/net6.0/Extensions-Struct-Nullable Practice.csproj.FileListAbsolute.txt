@@ -1,0 +1,28 @@
+C:\Users\ACER PREDATOR\OneDrive\Desktop\Practice-21-10-2023\Extensions-Struct-Nullable Practice\Extensions-Struct-Nullable Practice\bin\Debug\net6.0\Extensions-Struct-Nullable Practice.exe
+C:\Users\ACER PREDATOR\OneDrive\Desktop\Practice-21-10-2023\Extensions-Struct-Nullable Practice\Extensions-Struct-Nullable Practice\bin\Debug\net6.0\Extensions-Struct-Nullable Practice.deps.json
+C:\Users\ACER PREDATOR\OneDrive\Desktop\Practice-21-10-2023\Extensions-Struct-Nullable Practice\Extensions-Struct-Nullable Practice\bin\Debug\net6.0\Extensions-Struct-Nullable Practice.runtimeconfig.json
+C:\Users\ACER PREDATOR\OneDrive\Desktop\Practice-21-10-2023\Extensions-Struct-Nullable Practice\Extensions-Struct-Nullable Practice\bin\Debug\net6.0\Extensions-Struct-Nullable Practice.dll
+C:\Users\ACER PREDATOR\OneDrive\Desktop\Practice-21-10-2023\Extensions-Struct-Nullable Practice\Extensions-Struct-Nullable Practice\bin\Debug\net6.0\Extensions-Struct-Nullable Practice.pdb
+C:\Users\ACER PREDATOR\OneDrive\Desktop\Practice-21-10-2023\Extensions-Struct-Nullable Practice\Extensions-Struct-Nullable Practice\obj\Debug\net6.0\Extensions-Struct-Nullable Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER PREDATOR\OneDrive\Desktop\Practice-21-10-2023\Extensions-Struct-Nullable Practice\Extensions-Struct-Nullable Practice\obj\Debug\net6.0\Extensions-Struct-Nullable Practice.AssemblyInfoInputs.cache
+C:\Users\ACER PREDATOR\OneDrive\Desktop\Practice-21-10-2023\Extensions-Struct-Nullable Practice\Extensions-Struct-Nullable Practice\obj\Debug\net6.0\Extensions-Struct-Nullable Practice.AssemblyInfo.cs
+C:\Users\ACER PREDATOR\OneDrive\Desktop\Practice-21-10-2023\Extensions-Struct-Nullable Practice\Extensions-Struct-Nullable Practice\obj\Debug\net6.0\Extensions-Struct-Nullable Practice.csproj.CoreCompileInputs.cache
+C:\Users\ACER PREDATOR\OneDrive\Desktop\Practice-21-10-2023\Extensions-Struct-Nullable Practice\Extensions-Struct-Nullable Practice\obj\Debug\net6.0\Extensions-Struct-Nullable Practice.dll
+C:\Users\ACER PREDATOR\OneDrive\Desktop\Practice-21-10-2023\Extensions-Struct-Nullable Practice\Extensions-Struct-Nullable Practice\obj\Debug\net6.0\refint\Extensions-Struct-Nullable Practice.dll
+C:\Users\ACER PREDATOR\OneDrive\Desktop\Practice-21-10-2023\Extensions-Struct-Nullable Practice\Extensions-Struct-Nullable Practice\obj\Debug\net6.0\Extensions-Struct-Nullable Practice.pdb
+C:\Users\ACER PREDATOR\OneDrive\Desktop\Practice-21-10-2023\Extensions-Struct-Nullable Practice\Extensions-Struct-Nullable Practice\obj\Debug\net6.0\Extensions-Struct-Nullable Practice.genruntimeconfig.cache
+C:\Users\ACER PREDATOR\OneDrive\Desktop\Practice-21-10-2023\Extensions-Struct-Nullable Practice\Extensions-Struct-Nullable Practice\obj\Debug\net6.0\ref\Extensions-Struct-Nullable Practice.dll
+C:\Users\ACER PREDATOR\OneDrive\Desktop\28-10-2023 HomeWork\Extensions-Struct-Nullable Practice\Extensions-Struct-Nullable Practice\bin\Debug\net6.0\Extensions-Struct-Nullable Practice.exe
+C:\Users\ACER PREDATOR\OneDrive\Desktop\28-10-2023 HomeWork\Extensions-Struct-Nullable Practice\Extensions-Struct-Nullable Practice\bin\Debug\net6.0\Extensions-Struct-Nullable Practice.deps.json
+C:\Users\ACER PREDATOR\OneDrive\Desktop\28-10-2023 HomeWork\Extensions-Struct-Nullable Practice\Extensions-Struct-Nullable Practice\bin\Debug\net6.0\Extensions-Struct-Nullable Practice.runtimeconfig.json
+C:\Users\ACER PREDATOR\OneDrive\Desktop\28-10-2023 HomeWork\Extensions-Struct-Nullable Practice\Extensions-Struct-Nullable Practice\bin\Debug\net6.0\Extensions-Struct-Nullable Practice.dll
+C:\Users\ACER PREDATOR\OneDrive\Desktop\28-10-2023 HomeWork\Extensions-Struct-Nullable Practice\Extensions-Struct-Nullable Practice\bin\Debug\net6.0\Extensions-Struct-Nullable Practice.pdb
+C:\Users\ACER PREDATOR\OneDrive\Desktop\28-10-2023 HomeWork\Extensions-Struct-Nullable Practice\Extensions-Struct-Nullable Practice\obj\Debug\net6.0\Extensions-Struct-Nullable Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER PREDATOR\OneDrive\Desktop\28-10-2023 HomeWork\Extensions-Struct-Nullable Practice\Extensions-Struct-Nullable Practice\obj\Debug\net6.0\Extensions-Struct-Nullable Practice.AssemblyInfoInputs.cache
+C:\Users\ACER PREDATOR\OneDrive\Desktop\28-10-2023 HomeWork\Extensions-Struct-Nullable Practice\Extensions-Struct-Nullable Practice\obj\Debug\net6.0\Extensions-Struct-Nullable Practice.AssemblyInfo.cs
+C:\Users\ACER PREDATOR\OneDrive\Desktop\28-10-2023 HomeWork\Extensions-Struct-Nullable Practice\Extensions-Struct-Nullable Practice\obj\Debug\net6.0\Extensions-Struct-Nullable Practice.csproj.CoreCompileInputs.cache
+C:\Users\ACER PREDATOR\OneDrive\Desktop\28-10-2023 HomeWork\Extensions-Struct-Nullable Practice\Extensions-Struct-Nullable Practice\obj\Debug\net6.0\Extensions-Struct-Nullable Practice.dll
+C:\Users\ACER PREDATOR\OneDrive\Desktop\28-10-2023 HomeWork\Extensions-Struct-Nullable Practice\Extensions-Struct-Nullable Practice\obj\Debug\net6.0\refint\Extensions-Struct-Nullable Practice.dll
+C:\Users\ACER PREDATOR\OneDrive\Desktop\28-10-2023 HomeWork\Extensions-Struct-Nullable Practice\Extensions-Struct-Nullable Practice\obj\Debug\net6.0\Extensions-Struct-Nullable Practice.pdb
+C:\Users\ACER PREDATOR\OneDrive\Desktop\28-10-2023 HomeWork\Extensions-Struct-Nullable Practice\Extensions-Struct-Nullable Practice\obj\Debug\net6.0\Extensions-Struct-Nullable Practice.genruntimeconfig.cache
+C:\Users\ACER PREDATOR\OneDrive\Desktop\28-10-2023 HomeWork\Extensions-Struct-Nullable Practice\Extensions-Struct-Nullable Practice\obj\Debug\net6.0\ref\Extensions-Struct-Nullable Practice.dll
